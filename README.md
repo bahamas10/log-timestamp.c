@@ -30,7 +30,7 @@ Finally compile the program using `dotc` and execute it
 
 ```
 $ dotc test.c
-$ ./a.out
+$ ./a.out testing this out
 [2013-09-23T05:42:03.582Z] ./a.out
 [2013-09-23T05:42:03.583Z] testing
 [2013-09-23T05:42:03.583Z] this
