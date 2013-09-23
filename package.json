@@ -1,0 +1,21 @@
+{
+  "name": "log-timestamp.c",
+  "description": "A logger function with the current timestamp prepended",
+  "version": "0.0.0",
+  "author": "Dave Eddy <dave@daveeddy.com> (http://www.daveeddy.com)",
+  "contributors": [],
+  "main": "log-timestamp.c",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bahamas10/log-timestamp.c.git"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "keywords": [
+    "log",
+    "logger",
+    "dotc",
+    "timestamp"
+  ]
+}
