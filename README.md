@@ -64,7 +64,7 @@ And the program will execute as above
 Functions
 ---------
 
-### `void LOG(const char \*fmt, ...);`
+### `void LOG(const char *fmt, ...);`
 
 License
 -------
