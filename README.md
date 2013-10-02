@@ -53,12 +53,6 @@ int main(int argc, char **argv) {
 }
 ```
 
-then compile
-
-```
-$ cc log-timestamp.c test.c
-```
-
 And the program will execute as above
 
 Functions

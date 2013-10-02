@@ -6,7 +6,7 @@
  * Author: Dave Eddy <dave@daveeddy.com>
  * License: MIT
  */
- 
+
  #ifndef _LOG_TIMESTAMP_H
  #define _LOG_TIMESTAMP_H
 /**
