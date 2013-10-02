@@ -7,8 +7,8 @@
  * License: MIT
  */
 
- #ifndef _LOG_TIMESTAMP_H
- #define _LOG_TIMESTAMP_H
+#ifndef _LOG_TIMESTAMP_H
+#define _LOG_TIMESTAMP_H
 /**
  * print a timestamped log line
  *
